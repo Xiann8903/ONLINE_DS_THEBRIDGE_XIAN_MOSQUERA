@@ -1,6 +1,7 @@
 # Welcome to My Programming Repository 
 
-![Programming Hero](https://via.placeholder.com/1200x400?text=Welcome+to+Programming+World)
+![Programming Hero](https://github.com/Xiann8903/ONLINE_DS_THEBRIDGE_XIAN_MOSQUERA/raw/main/assets/banner.png)
+
 
 ## 🌟 About This Repository
 
